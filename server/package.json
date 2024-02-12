@@ -1,16 +1,16 @@
 {
-	"name": "studynotion-backend",
+	"name": "edupilot-backend",
 	"version": "1.0.0",
-	"description": "studynotion-backend",
+	"description": "edupilot-backend",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
 		"dev": "nodemon index.js"
 	},
 	"keywords": [
-		"studynotion-backend"
+		"edupilot-backend"
 	],
-	"author": "Saikat Mukherjee",
+	"author": "Karan Khulbe",
 	"license": "ISC",
 	"dependencies": {
 		"bcrypt": "^5.1.0",

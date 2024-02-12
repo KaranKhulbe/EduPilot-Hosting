@@ -1,1 +1,1 @@
-# StudyNotion Edtech Project
+# EduPilot Edtech Platform Project

@@ -6,22 +6,22 @@ import * as Icon2 from "react-icons/io5"
 const contactDetails = [
   {
     icon: "HiChatBubbleLeftRight",
-    heading: "Chat on us",
-    description: "Our friendly team is here to help.",
-    details: "info@studynotion.com",
+    heading: "Chat with me",
+    description: "Contact me to further know about this project and its working",
+    details: "karankhulbe24@gmail.com",
   },
   {
     icon: "BiWorld",
-    heading: "Visit us",
-    description: "Come and say hello at our office HQ.",
+    heading: "Visit me",
+    description: "Come and say hello",
     details:
-      "Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
+      "House no. 431 ward no. 7 , Haldwani Uttarakhand",
   },
   {
     icon: "IoCall",
-    heading: "Call us",
+    heading: "Call me",
     description: "Mon - Fri From 8am to 5pm",
-    details: "+123 456 7869",
+    details: "7906465515",
   },
 ]
 
